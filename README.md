@@ -8,7 +8,18 @@ You can view the website by opening any of the HTML files (`index.html`, `about.
 
 ## 📁 Project Structure
 
-<pre> ```text 📦deborah-portfolio/ ┣ 📁css/ ┃ ┗ 📄styles.css ┣ 📁img/ ┃ ┣ 📄student.jpg ┃ ┗ 📄csumb.jpg ┣ 📄index.html ┣ 📄about.html ┣ 📄contact.html ┗ 📄README.md ``` </pre>
+```text
+📦personal-website/
+ ┣ 📁css/
+ ┃ ┗ 📄styles.css
+ ┣ 📁img/
+ ┃ ┣ 📄student.jpg
+ ┃ ┗ 📄csumb.jpg
+ ┣ 📄index.html
+ ┣ 📄about.html
+ ┣ 📄contact.html
+ ┗ 📄README.md
+ ```
 
 ## 🛠️ Features
 
