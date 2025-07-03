@@ -15,8 +15,23 @@ nav a { /* links within "nav" container */
     color: white;   /* by default, links are blue */
 }
 
+nav a.current {
+    font-size: 50px;
+    color: purple;
+}
+
 nav a:hover {
     border-bottom: 2px orange solid;
     font-size: 2em;
     transition: .9s;    /* transition effect */
+}
+
+main {
+    display: flex;
+    justify-content: center;    /* or use "space-evenly" */
+}
+
+footer {
+    color: yellow;
+    font-size: 11px;
 }
