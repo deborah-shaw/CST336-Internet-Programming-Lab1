@@ -8,6 +8,17 @@ You can view the website by opening any of the HTML files (`index.html`, `about.
 
 ## 📁 Project Structure
 
+📦deborah-portfolio/
+┣ 📁css/
+┃ ┗ 📄styles.css
+┣ 📁img/
+┃ ┣ 📄student.jpg
+┃ ┗ 📄csumb.jpg
+┣ 📄index.html
+┣ 📄about.html
+┣ 📄contact.html
+┗ 📄README.md
+
 
 ## 🛠️ Features
 
@@ -22,11 +33,6 @@ You can view the website by opening any of the HTML files (`index.html`, `about.
 - CSS3
 - Google Fonts
 - Google Forms (embedded iframe)
-
-## 📸 Screenshots
-
-> *(Optional: Add screenshots if you'd like — e.g., use Markdown image syntax)*  
-> `![Home Page Screenshot](img/student.jpg)`
 
 ## 📜 License
 
