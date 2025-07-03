@@ -1,4 +1,4 @@
-# 💻 Deborah Shaw: Personal Portfolio Website
+# 💻 Deborah Shaw: Personal Website
 
 This is a simple, static personal website built with HTML5, CSS3, and a bit of embedded content from Google Forms. It was created for academic purposes as part of the CST336 Internet Programming course at California State University, Monterey Bay.
 
@@ -8,17 +8,7 @@ You can view the website by opening any of the HTML files (`index.html`, `about.
 
 ## 📁 Project Structure
 
-📦deborah-portfolio/
-┣ 📁css/
-┃ ┗ 📄styles.css
-┣ 📁img/
-┃ ┣ 📄student.jpg
-┃ ┗ 📄csumb.jpg
-┣ 📄index.html
-┣ 📄about.html
-┣ 📄contact.html
-┗ 📄README.md
-
+<pre> ```text 📦deborah-portfolio/ ┣ 📁css/ ┃ ┗ 📄styles.css ┣ 📁img/ ┃ ┣ 📄student.jpg ┃ ┗ 📄csumb.jpg ┣ 📄index.html ┣ 📄about.html ┣ 📄contact.html ┗ 📄README.md ``` </pre>
 
 ## 🛠️ Features
 
