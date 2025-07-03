@@ -16,13 +16,13 @@ nav a { /* links within "nav" container */
 }
 
 nav a.current {
-    font-size: 50px;
+    font-size: 40px;
     color: purple;
 }
 
 nav a:hover {
     border-bottom: 2px orange solid;
-    font-size: 2em;
+    font-size: 2.5em;
     transition: .9s;    /* transition effect */
 }
 
@@ -34,4 +34,55 @@ main {
 footer {
     color: yellow;
     font-size: 11px;
+}
+
+table {
+    margin: 0px auto;
+    text-align: center;
+}
+
+td {
+    padding-right: 10px;
+    font-size: 1.3em;
+}
+
+td strong {
+    color: orange;
+}
+
+#table-header {
+    background-color: #351a00;
+}
+
+.table-row {
+    background-color: #753900;
+}
+
+ul {
+    width: 650px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.hobby {
+    color: orange;
+}
+
+.iframe-container {
+  justify-content: center;
+  align-items: center;
+  border: none;
+  width: 100%;
+}
+
+h1 {
+    font-family: "Bitcount Grid Double", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
 }
